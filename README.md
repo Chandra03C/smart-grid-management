@@ -69,6 +69,7 @@ or
 
 # What's next ?
 As of now only the Machine Learning was implemented in this project and an extensive research on SGMS (Smart Grid Management System) was ongoing. We will very soon implement the intelligent algrithms to distribute the energy efficiently by minimising the losses.
+the solar energy uses the industrial purpose withouy any chemical uses it useful the grid solar power system of modern era. 
 There is already a intemediate phase of energy integration exists , we should be minimizing the cost and engineering before our next update.
 
 ## Declaration
